@@ -1,10 +1,10 @@
 ## DIU - Practica2, entregables
 
+Práctica2: Readme.md
 ### Ideación 
 * Malla receptora de información 
 * Mapa de empatía
 * Point of View 
-
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
