@@ -9,9 +9,9 @@ Sitio escogido: [La Qarmita](https://laqarmita.es/)
 **Nota:** El sitio web específico es distinto del que se facilita en el guion.
 
 ### 1. User Research Plan
-Como grupo tenemos algo de experiencia diseñando páginas web (uno de los integrantes hizo una página web en Wordpress de e-commerce). Como usuarios tampoco tenemos mucha experiencia, ya que no solemos ir a cafeterías independientes.
+Como grupo tenemos algo de experiencia diseñando páginas web (uno de los integrantes hizo una página web en Wordpress de e-commerce), lo que nos permire analizar la estructura y organización del sitio web desde un punto de visto algo más tećnico.
 
-Una metodología que usaríamos para evaluar la usabilidad del sitio web es simplemente analizar la página en sí, viendo puntos de fallo o dónde no estaría claro lo que hacer o cómo acceder a los precios, hacer una reserva,...
+Nuestro objetivo es evaluar la usabilidad del sitio web La Qarmita, identificando posibles problemas con la navegacuón, acceso a la información y claridad de las funcionalidad. Para ello, vamos a llevar a cabo una inspección heurística del sitio, centrada en aspectos como una la estructura de la navegación, facilidad de uso y locacalización de la información clave.
 
 ### 2. Competitor Analysis
 Para el análisis de competidores, se han escogido otras dos cafeterías:
@@ -21,8 +21,7 @@ Para el análisis de competidores, se han escogido otras dos cafeterías:
 En la imagen debajo se proporcionan los resultados del análisis.
 
 ![competitor_analysis.png]()
-
-Como se puede ver, la Qarmita se queda un poco por detrás en casi todos los frentes del análisis, haciendo la experiencia ligeramente peor que con los otros dos sitios.
+Como podemos observar, la Qarmita presenta una experiencia no tan optimizada como con sus competidores, especialmente en aspectos como la accesibilidad de la información y la claridad del diseño. Mientras que otras cafeterías ofrecen menús visibles y navegación más directa, La Qarmita requiere más pasos para acceder a información clave, lo que puede generar fricción en el usuario.
 ### 3. Creación de Personas
 Para la sección siguiente, se han creado dos personas prototípicas de la audiencia objetivo de la cafetería: Laura Jiménez y Hugo Palomares. Sus fichas de personaje son las siguientes.
 
