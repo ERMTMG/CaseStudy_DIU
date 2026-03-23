@@ -20,21 +20,21 @@ Para el análisis de competidores, se han escogido otras dos cafeterías:
 
 En la imagen debajo se proporcionan los resultados del análisis.
 
-![competitor_analysis.png]()
+![Competitor Analysis](CompetitorAnalysis/competitor_analysis.png)
 Como podemos observar, la Qarmita presenta una experiencia no tan optimizada como con sus competidores, especialmente en aspectos como la accesibilidad de la información y la claridad del diseño. Mientras que otras cafeterías ofrecen menús visibles y navegación más directa, La Qarmita requiere más pasos para acceder a información clave, lo que puede generar fricción en el usuario.
 ### 3. Creación de Personas
 Para la sección siguiente, se han creado dos personas prototípicas de la audiencia objetivo de la cafetería: Laura Jiménez y Hugo Palomares. Sus fichas de personaje son las siguientes.
 
-![ficha_laura_jimenez.png]()
+![Laura Jiménez](Fichas/ficha_laura_jimenez.png)
 
-![ficha_hugo_palomares.png]()
+![Hugo Palomares](Fichas/ficha_hugo_palomares.png)
 
 ### 4. User Journey Map
 Para ambas personas de la sección anterior, se ha modelado su experiencia visitando la [página web](https://laqarmita.es) de la cafetería. Los resultados se indican abajo.
 
-![journey_map_laura_jimenez.png]()
+![Journey Laura](JourneyMaps/journey_map_laura_jimenez.png)
 
-![journey_map_hugo_palomares.png]()
+![Journey Hugo](JourneyMaps/journey_map_hugo_palomares.png)
 
 ### 5. Usability Review
 Se ha aplicado el _usability review_ diseñado por [UX For the Masses](http://www.uxforthemasses.com/) al sitio web. La puntuación obtenida ha sido de **65 puntos sobre 100**, en el rango **Moderate**. Todas las respuestas a las preguntas y comentarios al respecto pueden ser vistos en el archivo `Usability-review-template.ods`.
