@@ -6,7 +6,7 @@ Integrantes:
 - Javier Ortega Medina  
 
 Caso de estudio: [La Qarmita](https://laqarmita.es/)
-
+Figma Enlace P2: https://www.figma.com/design/3GMxvI9WsglMRDX02EBSjC/DIU_Toolkit_Framework--2026---Copia-?node-id=0-1&t=yDnZANyoNCObJfzD-1
 ---
 
 ## 1. Inspiración / Case Study
