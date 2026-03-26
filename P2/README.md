@@ -45,13 +45,14 @@ Figma Enlace P2: https://www.figma.com/design/3GMxvI9WsglMRDX02EBSjC/DIU_Toolkit
 
 ## 2.2 Feedback Capture Grid
 
-
+![CaptureGrid](./FeedBackGrid/FeedbackGrid.png)
 
 ---
 
 ## 3. Propuesta de Valor (Scope Canvas)
 
 
+![ScopeCanvas](./ScopeCanvas/ScopeCanvas.png)
 
 ---
 
