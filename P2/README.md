@@ -60,7 +60,7 @@ Figma Enlace P2: https://www.figma.com/design/3GMxvI9WsglMRDX02EBSjC/DIU_Toolkit
 
 
 
-![User Flow](ruta/a/imagen.png)
+![User Flow](./UserFlow/UserFlow.png)
 
 ---
 
