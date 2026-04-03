@@ -66,12 +66,17 @@ Figma Enlace P2: https://www.figma.com/design/3GMxvI9WsglMRDX02EBSjC/DIU_Toolkit
 
 ## 5. Arquitectura de la Información
 
-### Estructura del sitio
-- Inicio
-- Menú
-- Reservas
+### Estructura del sitio (previa)
+- Nuestra Qarmi
+- La tienda
+- Cafetería:
+  - Menú
+  - Nuestras cartas y postres
+  - Snacks Latinos
+  - Tés, infusiones y Desteinados
 - Eventos
 - Contacto
+- Blog 2012
 
 ### Descripción
 > Se propone una nueva arquitectura de la información basada en los problemas detectados en la práctica anterior, con el objetivo de mejorar la accesibilidad y la experiencia de usuario. Se han definido subniveles dentro de las secciones principales para estructurar mejor la información y facilitar el acceso a contenidos clave como el menú, los horarios o los eventos.
