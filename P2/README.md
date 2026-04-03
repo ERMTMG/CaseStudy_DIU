@@ -74,9 +74,9 @@ Figma Enlace P2: https://www.figma.com/design/3GMxvI9WsglMRDX02EBSjC/DIU_Toolkit
 - Contacto
 
 ### Descripción
-> 
+> Se propone una nueva arquitectura de la información basada en los problemas detectados en la práctica anterior, con el objetivo de mejorar la accesibilidad y la experiencia de usuario. Se han definido subniveles dentro de las secciones principales para estructurar mejor la información y facilitar el acceso a contenidos clave como el menú, los horarios o los eventos.
 
-![Sitemap](ruta/a/imagen.png)
+![Sitemap](./InformationArchitecture/SiteMap.png)
 
 ---
 
