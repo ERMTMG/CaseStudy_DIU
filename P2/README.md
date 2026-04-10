@@ -13,11 +13,11 @@ Figma Enlace P2: https://www.figma.com/design/3GMxvI9WsglMRDX02EBSjC/DIU_Toolkit
 
 ### Idea inicial
 
-> Y si, ¿existiera una plataforma que permitiera descubrir cafeterías buena en Granada, que combinen café de especialidad y experiencias culturales como la lectura?
+> Y si, ¿existiera una plataforma que permitiera descubrir cafeterías buenas en Granada, que combinen café de especialidad y experiencias culturales como la lectura?
 
 ### Contexto 
 
-> A partir del análisis que realizamos en la práctica 1, detectamos diferentres problemas con la página web de la Qarmita, como la dificutal para acceder al menú o la falta de información clara para los usuarios. 
+> A partir del análisis que realizamos en la práctica 1, detectamos diferentes problemas con la página web de la Qarmita, como la dificutad para acceder al menú o la falta de información clara para los usuarios. 
 
 ### Oportunidad
 
@@ -39,26 +39,33 @@ Figma Enlace P2: https://www.figma.com/design/3GMxvI9WsglMRDX02EBSjC/DIU_Toolkit
 
 
 >El mapa de empatía se ha elaborado a partir de un perfil general de cliente, identificando patrones comunes también relacionados con los usuarios ficticios creados en la práctica anterior.
+A partir del mapa de empatía se identificaron necesidades clave como:
+- Acceso rápido al menú
+- Información clara sobre horarios
+- Facilidad para descubrir eventos
 
 ![Empathy Map](./EmpathyMap/Empathy%20Map.png)
+
 ---
 
 ## 2.2 Feedback Capture Grid
-
+> En la malla receptora de información hemos recopilado información de los usuarios: preguntas que se hacen, detalles que les gustan de la página, críticas constructivas e ideas de mejora. Esto nos sirve para tener feedback de qué percibe el usuario y cómo espera ver una buena página web.
 ![CaptureGrid](./FeedBackGrid/FeedbackGrid.png)
 
 ---
 
+
 ## 3. Propuesta de Valor (Scope Canvas)
+> En el Scope Canvas, presentamos nuestro proyecto y todo lo relacionado con el mismo: Objetivos, Propósito, Necesidades de clientes, qué métricas utilizamos para medir si tiene éxito o no, y posibles acciones que realizan los clientes. Con esta propuesta de valor, empezamos trazando el camino que seguirá nuestro proyecto. 
+<p align="center">
+  <img src="./ScopeCanvas/ScopeCanvas.png" width="850">
+</p>
 
-
-![ScopeCanvas](./ScopeCanvas/ScopeCanvas.png)
 
 ---
 
 ## 4. Task Analysis
-
-
+> En este apartado mostramos el flujo principal que sigue un usuario al interactuar con la propuesta de web. Se representan las acciones principales, los puntos de decisión y los posibles resultados, incluyendo tanto el recorrido satisfactorio como posibles puntos de abandono.
 
 ![User Flow](./UserFlow/UserFlow.png)
 
@@ -88,28 +95,46 @@ Figma Enlace P2: https://www.figma.com/design/3GMxvI9WsglMRDX02EBSjC/DIU_Toolkit
 ## 6. Prototipo (Lo-Fi)
 
 ### Bocetos iniciales
-> 
+> Estos bocetos representan una primera aproximación al diseño de la interfaz. 
+Se han realizado a mano para definir la estructura de la página y la organización de los contenidos antes de desarrollar el wireframe.
+Nos hemos centrado más en la funcionalidad de la página más que el diseño visual o detalles gráficos. 
 
-![Boceto papel](ruta/a/imagen.png)
+<p align="center">
+  <img src="./Prototype/Esbozos/Esbozo_Inicial_01.jpg" width="350">
+  <img src="./Prototype/Esbozos/Esbozo_Inicial_02.jpg" width="350">
+</p>
+
 
 ---
 
 ### Wireframe en Figma
-> 
+> El wireframe nos sirve para proponer una mejora en la accesibilidad de la información importante.
+Hemos priorizado una estructura clara haciendo visible el menú para facilitar la navegación del usuario.  
 
-![Wireframe](ruta/a/imagen.png)
+>Wireframe de la Página Principal:
+<p align="center">
+  <img src="./Prototype/Wireframe/Principal.png" width="450">
+</p>
+<p align="center">
+  <img src="./Prototype/Wireframe/Tienda_Libros.png" width="450">
+</p>
+
 
 ---
 
 ### Diseño responsive
-> 
+> Finalmente, en este apartado presentamos el diseño responsive de la página web. Es un diseño adaptado a dispositivos móviles. Toda la interfaz, los productos mostrados y demás está preparado a para la vista desde un smartphone.
 
-![Responsive](ruta/a/imagen.png)
+<p align="center">
+  <img src="./Prototype/Responsive/Bienvenida.png" width="220">
+  <img src="./Prototype/Responsive/Carta.png" width="220">
+  <img src="./Prototype/Responsive/Tienda.png" width="220">
+</p>
+
+
 
 ---
 
 ## 8. Conclusión
 
-> 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+> En esta práctica hemos aprendido a analizar en profundidad la referencia inicial escogida, la web de la Qarmita. Gracias a este análisis, hemos aprendido puntos fuertes, puntos débiles, y en general mejoras de cara a nuestra propuesta. En base a eso, hemos diseñado un prototipo inicial de nuestro proyecto que tenga una estructura clara, directa y fácil de navegar. 
