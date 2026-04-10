@@ -94,6 +94,8 @@ A partir del mapa de empatía se identificaron necesidades clave como:
 
 ## 6. Prototipo (Lo-Fi)
 
+A modo de idea general, proponemos un sitio web estructurado de manera que se pueda hacer scroll y ver las diferentes secciones (menú, tienda de libros, horario, etc.), aún dando la posibilidad de ir directamente a una sección si se desea. Este concepto se inspira en cómo lo hace [el sitio de Coffee Corner (Sevilla)](https://coffeecornerviapol.eatbu.com/?lang=es).
+
 ### Bocetos iniciales
 > Estos bocetos representan una primera aproximación al diseño de la interfaz. 
 Se han realizado a mano para definir la estructura de la página y la organización de los contenidos antes de desarrollar el wireframe.
