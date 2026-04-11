@@ -113,14 +113,16 @@ Nos hemos centrado más en la funcionalidad de la página más que el diseño vi
 > El wireframe nos sirve para proponer una mejora en la accesibilidad de la información importante.
 Hemos priorizado una estructura clara haciendo visible el menú para facilitar la navegación del usuario.  
 
->Wireframe de la Página Principal:
+Debido a que es una página muy vertical, hemos dividido la imagen del wireframe principal en dos mitades (la de arriba está más a la izquierda):
 <p align="center">
-  <img src="./Prototype/Wireframe/Principal.png" width="450">
+  <img src="./Prototype/Wireframe/Principal_1.png" width="450">
+  <img src="./Prototype/Wireframe/Principal_2.png" width="450">
 </p>
+Y el wireframe de la página de tienda de libros es el siguiente:
 <p align="center">
   <img src="./Prototype/Wireframe/Tienda_Libros.png" width="450">
 </p>
-
+El archivo Figma del wireframe se puede ver en `./Prototype/Wireframe/Wireframe.fig`
 
 ---
 
