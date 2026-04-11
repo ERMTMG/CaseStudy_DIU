@@ -124,18 +124,7 @@ Hemos priorizado una estructura clara haciendo visible el menú para facilitar l
 
 ---
 
-### Diseño responsive
-> Finalmente, en este apartado presentamos el diseño responsive de la página web. Es un diseño adaptado a dispositivos móviles. Toda la interfaz, los productos mostrados y demás está preparado a para la vista desde un smartphone.
 
-<p align="center">
-  <img src="./Prototype/Responsive/Bienvenida.png" width="220">
-  <img src="./Prototype/Responsive/Carta.png" width="220">
-  <img src="./Prototype/Responsive/Tienda.png" width="220">
-</p>
-
-
-
----
 
 ## 8. Conclusión
 
