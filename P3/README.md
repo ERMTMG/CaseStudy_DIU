@@ -12,22 +12,13 @@ Antes de nada, se ha realizado un _moodboard_ para concretar el diseño visual y
   <img src="./MoodBoard.png" width="850">
 </p>
 
-
-## 2. Landing Page.
-
-
+## 2. Design System
+Una vez realizado el _moodboard_, se concreta más el diseño en un documento que especifica el diseño para elementos básicos (átomos como botones, _carousels_, etc.) y elementos compuestos de varios elementos anteriores (moléculas).
 <p align="center">
-  <img src="./LandingPage.png" width="850">
+  <img src="./DesignSystem.jpg" width="850">
 </p>
 
-
-## 3. Guidelines.
-
-<p align="center">
-  <img src="./GuideLine.png" width="850">
-</p>
-
-## 4. Mockup.
+## 3. Mockup.
 
 <p align="center">
   <img src="./Mockup.png" width="850">
