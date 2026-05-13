@@ -6,285 +6,115 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 * Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
 
 
-Enlace a la Paǵina Web de Figma Make: [Enlace](https://sphere-fresco-52121333.figma.site)
+### Para los evaluadores
+Enlace a la Paǵina Web: [Enlace](https://sphere-fresco-52121333.figma.site)
 
-Actualizado: 14/01/2026
+Más adelante se detalla la página web.
 
-
+Actualizado: 13/05/2026
 
 
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
------
+Grupo: DIU2_Cocineros.  Curso: 2025/26 
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
-Grupo: DIUx_AABB.  Curso: 2025/26 
-
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre del Proyecto: **_Case Study_ del sitio web de La Qarmita**
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> La Qarmita es una cafetería en el centro de Granada con la particularidad de que también vende libros y promueve la lectura dentro del espacio. En este _case study_, analizamos [el sitio web del establecimiento](https://laqarmita.es) y lo rediseñamos para mejorar la experiencia de los usuarios.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logotipo diseñado](img/logotipo.png)
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+ * Eduardo Rodríguez Hoces
+ * Javier Ortega Medina
 
 ----- 
-
-<br>
-
-# Proceso de Diseño 
-
-
-
-
-
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+El plan inicial ha sido evaluar la usabilidad del sitio web identificando problemas de navegación y localización de la información relevante. 
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
------
+Para el análisis de competidores, se han escogido otras dos cafeterías:
+- Coffee Corner (Sevilla, España), una cafetería con estética similar en otra parte de Andalucía.
+- La Finca Roaster (Granada), otra cafetería/productor de café en Granada que ofrece clases de barismo.
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+En la imagen debajo se proporcionan los resultados del análisis.
+
+![Competitor Analysis](P1/CompetitorAnalysis/competitor_analysis.png)
+Como podemos observar, la Qarmita presenta una experiencia no tan optimizada como con sus competidores, especialmente en aspectos como la accesibilidad de la información y la claridad del diseño. Mientras que otras cafeterías ofrecen menús visibles y navegación más directa, La Qarmita requiere más pasos para acceder a información clave, lo que puede generar fricción en el usuario.
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
------
+Para la sección siguiente, se han creado dos personas prototípicas de la audiencia objetivo de la cafetería: Laura Jiménez y Hugo Palomares. Sus fichas de personaje son las siguientes.
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+![Laura Jiménez](Fichas/ficha_laura_jimenez.png)
+
+![Hugo Palomares](Fichas/ficha_hugo_palomares.png)
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
-----
+Para ambas personas creadas, se ha modelado su experiencia visitando la [página web](https://laqarmita.es) de la cafetería. Los resultados se indican abajo.
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+![Journey Laura](JourneyMaps/journey_map_laura_jimenez.png)
 
+![Journey Hugo](JourneyMaps/journey_map_hugo_palomares.png)
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
-----
-
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
-
-<br>
+Se ha aplicado el _usability review_ diseñado por [UX For the Masses](http://www.uxforthemasses.com/) al sitio web. La puntuación obtenida ha sido de **65 puntos sobre 100**, en el rango **Moderate**. Todas las respuestas a las preguntas y comentarios al respecto pueden ser vistos en el archivo `Usability-review-template.ods`.
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+Después de la fase de investigación de usabilidad, se han empezado a considerar cuestiones para un rediseño de la página.
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
-----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+Inicialmente, se han recopilado las ideas más relevantes de cara a lo que necesita el usuario; tanto en un _empathy map_ como en un _feedback capture grid_. Los resultados se detallan en las siguientes figuras. 
+![Empathy Map](P2/EmpathyMap/Empathy%20Map.png)
+![CaptureGrid](P2/FeedBackGrid/FeedbackGrid.png)
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
-----
-
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-
+<p align="center">
+  <img src="P2/ScopeCanvas/ScopeCanvas.png" width="850">
+</p>
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
------
+Esta sección muestra un acercamiento primerizo a la navegación que se desea tener por el sitio web, en forma de diagrama de flujo.
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
+![User Flow](P2/UserFlow/UserFlow.png)
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
-----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
-
+Bajando un poco más el nivel de diseño, se ha realizado un _sitemap_ para organizar las distintas partes de la página a realizar.
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
------
-
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+El último paso ha sido realizar un _wireframe_ de baja fidelidad del sitio web final, el cual puede verse con detalle en `P2/Prototype/Wireframe/`.
 
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
+El siguiente paso, una vez se ha obtenido un primer prototipo, es detallarlo más a nivel visual, especificando la paleta de colores, las tipografías, etc. 
 
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
+El diseño visual a alto nivel se ha especificado mediante un _moodboard_ visible en la figura debajo. 
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+<p align="center">
+  <img src="P3/MoodBoard/MoodBoard.png" width="850">
+</p>
 
-
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+### 3.b Guidelines
+Lo siguiente que se debe hacer es usar el _moodboard_ como una base para definir el estilo visual de la página más precisamente. Se han declarado pautas de diseño para los **átomos** de la página (botones sencillos, deslizadores, etc.) y las **moléculas** (componentes más complejos como puede ser un _carousel_).
 
 
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-
-### 3.d Mockup
+### 3.c Mockup
 ![Método UX](img/mockup.png) 
-----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
-
+Por último, se han aplicado estas pautas de diseño al _wireframe_ de la práctica anterior, haciendo un diseño de mayor fidelidad en Figma. Se puede ver el resultado en `P3/Layout/`.
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
-
-### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
-
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
-
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
-
-
-### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
-
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
-
-
-### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
-
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
-
-### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
-
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
-
-### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
-
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-
-
-<br>
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
-## Conclusiones finales & Valoración de las prácticas
-
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
-
-
-
-
+El último paso es transformar el prototipo en un sitio web completo. El sitio web ha sido desarrollado con la ayuda de **Figma Make** en TypeScript con React. Además del enlace al principio del reportaje, se puede ver el código fuente del sitio web en `P4/CodigoLocal/`.
