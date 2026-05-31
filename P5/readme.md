@@ -48,7 +48,7 @@ Ficheros de datos:
 
 Cuestionario SUS administrado vía **Tally.so** al finalizar cada sesión. Análisis multivariable realizado con **sus.mixality.de**.
 
-Fichero de respuestas: [`Escala_SUS_Submissions.csv`](Escala_SUS__Test_de_Usabilidad__Submissions_2026-05-31.csv)
+Fichero de respuestas: [`Escala_SUS_Submissions.csv`](./FormulariosSUS/SUS(5_entries).csv) [Escala2_SUS_Submissions.csv`](./FormulariosSUS/)
 
 | Participante | SUS Diseño A | SUS Diseño B |
 |--------------|-------------|-------------|
