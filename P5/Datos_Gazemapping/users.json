@@ -1,0 +1,112 @@
+[
+  {
+    "username": "Participante_01",
+    "edad": "29",
+    "sexo": "F",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-31",
+    "hora_fin": "16:36:55",
+    "timestamp": 1780238215093,
+    "sitioFinal": 1
+  },
+  {
+    "username": "Participante_01",
+    "edad": "29",
+    "sexo": "F",
+    "grupo": "A",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-31",
+    "hora_fin": "16:38:15",
+    "timestamp": 1780238295947,
+    "sitioFinal": 2
+  },
+  {
+    "username": "Participante_02",
+    "edad": "60",
+    "sexo": "M",
+    "grupo": "A",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-31",
+    "hora_fin": "16:40:43",
+    "timestamp": 1780238443027,
+    "sitioFinal": 2
+  },
+  {
+    "username": "Participante_02",
+    "edad": "60",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-31",
+    "hora_fin": "16:41:55",
+    "timestamp": 1780238515299,
+    "sitioFinal": 1
+  },
+  {
+    "username": "Participante_03",
+    "edad": "60",
+    "sexo": "F",
+    "grupo": "A",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-31",
+    "hora_fin": "16:44:43",
+    "timestamp": 1780238683945,
+    "sitioFinal": 2
+  },
+  {
+    "username": "Participante_04",
+    "edad": "27",
+    "sexo": "M",
+    "grupo": "A",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-18",
+    "hora_fin": "18:05:02",
+    "timestamp": 1779120302216,
+    "sitioFinal": 1
+  },
+  {
+    "username": "Participante_05",
+    "edad": "44",
+    "sexo": "F",
+    "grupo": "A",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-18",
+    "hora_fin": "18:06:31",
+    "timestamp": 1779120391653,
+    "sitioFinal": 1
+  },
+  {
+    "username": "Participante_06",
+    "edad": "30",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-18",
+    "hora_fin": "18:08:53",
+    "timestamp": 1779120533966,
+    "sitioFinal": 1
+  },
+  {
+    "username": "Participante_07",
+    "edad": "43",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-18",
+    "hora_fin": "18:10:58",
+    "timestamp": 1779120658509,
+    "sitioFinal": 1
+  },
+  {
+    "username": "Participante_08",
+    "edad": "37",
+    "sexo": "F",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-18",
+    "hora_fin": "18:12:34",
+    "timestamp": 1779120754931,
+    "sitioFinal": 1
+  }
+]

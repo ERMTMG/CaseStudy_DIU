@@ -27,9 +27,9 @@ Se han reclutado **8 participantes** en total (5 evaluaciones por diseño), comb
 
 ### 1. Reclutamiento de usuarios + propuesta A/B
 
-Tabla demográfica de participantes incluida en el Usability Report (sección 2). Se han recogido datos de edad, sexo, competencia digital, orden de evaluación y procedencia. La recogida de datos se realizó mediante Tally.so.
+Tabla demográfica de participantes incluida en el Usability Report (sección 2). Se han recogido datos de edad, sexo, competencia digital, orden de evaluación y procedencia. La recogida de datos se realizó mediante Tally.so. P01 y P02 aparecen dos veces (una por cada diseño evaluado), el resto una sola vez.
 
-Fichero de datos de usuarios: [`users.json`](users.json)
+Fichero de datos de usuarios: [`users.json`](./Datos_Gazemapping/users.json)
 
 ### 2. Resultados del Eye Tracking
 
